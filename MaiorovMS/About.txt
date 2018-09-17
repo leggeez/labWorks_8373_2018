@@ -1,2 +1,2 @@
-Student of Eltech University 
-C++
+Directory of laboratory works by Maxim Maiorov
+C++ developer , ElTech student
